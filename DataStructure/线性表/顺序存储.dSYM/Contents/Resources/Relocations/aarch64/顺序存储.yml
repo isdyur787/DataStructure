@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/shaoyuming/Desktop/DataStructure/线性表/顺序存储"
+relocations:     []
+...
